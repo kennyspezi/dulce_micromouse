@@ -1,0 +1,32 @@
+# KiCad backup files
+*-backups/
+*-save.kicad_pcb
+*-save.kicad_sch
+*.bak
+*.bck
+*~
+
+# KiCad cache files
+fp-info-cache
+*-cache.lib
+*-cache.dcm
+*-rescue.lib
+*-rescue.dcm
+
+# KiCad user preferences
+*.kicad_prl
+
+# KiCad auto-generated files
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# KiCad export files (optional - uncomment if you don't want to track these)
+# *.zip
+# *.pdf
+# gerber/
+# *.gbr
+# *.drl
+
+# OS files
+.DS_Store
+Thumbs.db
